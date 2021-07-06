@@ -4,8 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+Chanin is an Associate Professor of Bioinformatics and the founder of the **[Data Professor](https://youtube.com/dataprofessor)** [^1] YouTube channel.
 
 
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+[^1]: An educational YouTube channel about data science and bioinformatics.
